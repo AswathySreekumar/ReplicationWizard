@@ -1,0 +1,15 @@
+c:\users\muhsina\documents\visual studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\PreReplicationSettings.exe.config
+c:\users\muhsina\documents\visual studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.csprojResolveAssemblyReference.cache
+c:\users\muhsina\documents\visual studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.PreReplicationSettings.resources
+c:\users\muhsina\documents\visual studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.Properties.Resources.resources
+c:\users\muhsina\documents\visual studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.csproj.GenerateResource.Cache
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\PreReplicationSettings.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\PreReplicationSettings.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\LogFileCreation.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\MySql.Data.dll
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\Settings_Replication.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\LogFileCreation.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\MySql.Data.xml
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\Settings_Replication.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.pdb

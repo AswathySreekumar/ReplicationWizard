@@ -1,0 +1,30 @@
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\PreReplicationSettings.exe.config
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\PreReplicationSettings.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\PreReplicationSettings.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\LogFileCreation.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\MySql.Data.dll
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\Settings_Replication.exe
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\LogFileCreation.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\MySql.Data.xml
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\bin\Debug\Settings_Replication.pdb
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\ReplicationWizard.csprojResolveAssemblyReference.cache
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.ReplicationWizard.resources
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.Properties.Resources.resources
+C:\Users\Muhsina\Documents\Visual Studio 2015\Projects\PreReplicationSettings\PreReplicationSettings\obj\Debug\ReplicationWizard.csproj.GenerateResource.Cache
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\bin\Debug\PreReplicationSettings.exe.config
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.exe
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.pdb
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\bin\Debug\PreReplicationSettings.exe
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\bin\Debug\PreReplicationSettings.pdb
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\bin\Debug\LogFileCreation.exe
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\bin\Debug\MySql.Data.dll
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\bin\Debug\Settings_Replication.exe
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\bin\Debug\LogFileCreation.pdb
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\bin\Debug\MySql.Data.xml
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\bin\Debug\Settings_Replication.pdb
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\obj\Debug\ReplicationWizard.csprojResolveAssemblyReference.cache
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.ReplicationWizard.resources
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\obj\Debug\PreReplicationSettings.Properties.Resources.resources
+D:\Milestone Toolkit\Muhseena\ProjectsNew\PreReplicationSettings\PreReplicationSettings\obj\Debug\ReplicationWizard.csproj.GenerateResource.Cache
